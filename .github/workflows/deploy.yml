@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # REQUIRED
+  contents: write
 
 jobs:
   deploy:
