@@ -34,3 +34,5 @@ Works directly in the browser
 | **TypeScript**                | Safer and scalable code       |
 | **React + Vite**              | Component-based fast frontend |
 | **ES Modules**                | Efficient modern bundling     |
+
+https://sruthy405.github.io/number-pop/
