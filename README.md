@@ -35,4 +35,7 @@ Works directly in the browser
 | **React + Vite**              | Component-based fast frontend |
 | **ES Modules**                | Efficient modern bundling     |
 
-https://sruthy405.github.io/number-pop/
+🌐 Live Demo
+
+🔗 Play the game here:
+👉 https://sruthy405.github.io/number-pop/
